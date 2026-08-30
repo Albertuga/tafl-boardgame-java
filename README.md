@@ -16,6 +16,7 @@ Los juegos Tafl son juegos de tablero asimétricos para dos jugadores donde un b
 * **Casillas especiales:**
   * **Trono:** Casilla central donde inicia el rey.
   * **Provincias:** Cuatro casillas situadas en las esquinas del tablero.
+  * En este caso podremos crear tableros de 4x4, 6x6 y 8x8
 
 ### Objetivos de Victoria
 * ⚪ **Defensor:** Lograr que el **Rey escape** alcanzando cualquiera de las cuatro provincias.
