@@ -40,5 +40,3 @@ Los juegos Tafl son juegos de tablero asimétricos para dos jugadores donde un b
 ├── documentar.bat      # Generador de documentación Javadoc
 ├── ejecutar_gui.bat    # Lanzador de la interfaz gráfica
 └── ejecutar_textui.bat # Lanzador de la interfaz por consola
-
-Esta ha sido la última práctica de la asignatura Metodologia de la Programación
