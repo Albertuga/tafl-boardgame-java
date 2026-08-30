@@ -1,6 +1,6 @@
 # Tafl Games — Metodología de la Programación
 
-Implementación en Java de la familia de juegos abstractos **Tafl** (ajedreces vikingos), con soporte para variantes tradicionales como **Brandubh** y **ArdRi**. El proyecto incluye tanto una interfaz gráfica (GUI) como una versión interactiva en modo consola (TextUI).
+Implementación en Java de la familia de juegos abstractos **Tafl** (ajedreces vikingos), con soporte para variantes tradicionales como **Brandubh** y **ArdRi**. El proyecto incluye tanto una interfaz gráfica (GUI) como una versión interactiva en modo consola (TextUI). (Práctica implementada por la Universidad de Burgos).
 
 ---
 
